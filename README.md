@@ -2,4 +2,4 @@
 
 
 - 🔭 Hoje estou trabalhando com Ciência de Dados
-- 🌱 Atualmente estou estudando Estatística e Machine Learning ...
+- 🌱 Atualmente estou estudando Estatística e Machine Learning 
