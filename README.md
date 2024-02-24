@@ -7,6 +7,7 @@ Oi! Me chamo Gabriel Bueno Guimarães, sou formado em Engenharia de Controle e A
 Espero que você goste dos projetos que estão por aqui. Qualquer sugestão ou ideia de melhoria são muito bem vindas!
 
 <div>
+   <img height ="150cm" src ="https://github-readme-stats.vercel.app/api?username=GabrielBueno21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height ="150cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno21&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
